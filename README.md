@@ -20,6 +20,7 @@ I'm always open to collaboration, learning opportunities, and engaging in exciti
 
 - LinkedIn: [Amirthavarshini V](https://www.linkedin.com/in/amirthavarshini-vijayaraghavan/)
 - Email: amirthavarshini1901@gmail.com
+- Tableau Public : [click here](https://public.tableau.com/app/profile/amirthavarshini3434)
 
 Thank you for visiting my profile, and I look forward to connecting with you! 😄✉️
 
