@@ -2,7 +2,8 @@
 
 This is Amirthavarshini, pursuing the final semester of Master's in Data Science at Christ(Deemed to be) University. I did my bachelor's in Mathematics. I switched to Data Science due to my passion for data analytics. Data never lies 😉. I led the AI/ML wing at GDSC in my college. Awarded as Best Outgoing Student in my bachelor's for my academic and co-curricular contributions. I am looking for internships and full-time data science opportunities based in Bangalore. I am interning in-house for Katho University for psychoanalysis using Large Language models with story-driven diagnosis. I am open to internships and full-time opportunities based in remote and Bangalore.
 
-![](https://komarev.com/ghpvc/?username=amirtha19&color=green)
+![](https://komarev.com/ghpvc/?username=amirtha19&color=green) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/amirtha1901)
+
 
 ## Projects and Contributions 💡
 
