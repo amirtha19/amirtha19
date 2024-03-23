@@ -4,7 +4,7 @@ This is Amirthavarshini, pursuing the final semester of Master's in Data Science
 
 ## Projects and Contributions 💡
 
-Data Visualization projects : 
+Data analysis projects : 
 Data Engineering projects :
 Data Science projects :
 
