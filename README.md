@@ -13,6 +13,9 @@ This is Amirthavarshini, pursuing the final semester of Master's in Data Science
 --Data Engineering projects :
 
 --Data Science projects :
+1. [End-to-end MLOps](https://github.com/amirtha19/End-to-end-MLOps)
+2. [Customer Prediction with MLOps](https://github.com/amirtha19/Customer-prediction-with-MLOps)
+3. [Mall Customer Segmentation](https://github.com/amirtha19/Mall-customer-segmentation)
 
 
 ## Let's Connect! 🤝
