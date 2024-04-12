@@ -4,9 +4,11 @@ This is Amirthavarshini, pursuing the final semester of Master's in Data Science
 
 ## Projects and Contributions 💡
 
-Data analysis projects : 
-Data Engineering projects :
-Data Science projects :
+--Data analysis projects : 
+1. [Link to My GitHub Repository](https://github.com/your-username/your-repository)
+
+--Data Engineering projects :
+--Data Science projects :
 
 
 ## Let's Connect! 🤝
