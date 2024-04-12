@@ -5,10 +5,10 @@ This is Amirthavarshini, pursuing the final semester of Master's in Data Science
 ## Projects and Contributions 💡
 
 --Data analysis projects : 
-1. [Instacart Market Basket Analysis Repository](https://github.com/amirtha19/Instacart-market-basket-analysis)
-2. [Call Center Analysis using Tableau Repository](https://github.com/amirtha19/Call-center-analysis-using-Tableau)
-3. [Retail Transaction Analysis using Tableau Repository](https://github.com/amirtha19/Retail-transaction-analysis-using-Tableau)
-4. [Walmart Data Analysis using SQL Repository](https://github.com/amirtha19/Walmart-data-analysis-SQL)
+1. [Instacart Market Basket Analysis using SQL and PowerBI](https://github.com/amirtha19/Instacart-market-basket-analysis)
+2. [Call Center Analysis using Tableau](https://github.com/amirtha19/Call-center-analysis-using-Tableau)
+3. [Retail Transaction Analysis using Tableau](https://github.com/amirtha19/Retail-transaction-analysis-using-Tableau)
+4. [Walmart Data Analysis using SQL](https://github.com/amirtha19/Walmart-data-analysis-SQL)
 
 --Data Engineering projects :
 
